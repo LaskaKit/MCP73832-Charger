@@ -1,0 +1,1 @@
+# LaskaKit MCP73832 nabíječka Li-ion článku 0.5A
